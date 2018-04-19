@@ -110,4 +110,4 @@ This is the most basic Sinatra application structure and is actually pretty unco
 * [Blake Mizerany - Ruby Learning Interview](http://rubylearning.com/blog/2009/08/11/blake-mizerany-how-do-i-learn-and-master-sinatra/)
 * [Companies Using Sinatra](http://www.sinatrarb.com/wild.html)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/what-is-sinatra' title='What is Sinatra?'>What is Sinatra?</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-L1 What is Sinatra?</p>
